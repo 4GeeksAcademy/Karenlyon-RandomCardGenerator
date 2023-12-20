@@ -1,1 +1,37 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+
+.card {
+  background-color: white;
+  border-radius: 2%;
+  width: 250px;
+  height: 350px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.number {
+  text-align: center;
+  font-size: 80px;
+  height: 250px;
+  padding: 50px;
+}
+
+.logo {
+  font-size: xxx-large;
+
+  margin: 10px;
+}
+.bottom {
+  text-align: end;
+  height: 50px;
+}
+
+.top {
+  text-align: start;
+  margin-top: 0;
+  margin-bottom: 3px;
+  height: 40px;
+}
